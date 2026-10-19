@@ -236,7 +236,7 @@
     #define SUPPORT_FILEFORMAT_TGA      0       // Disabled by default
 #endif
 #ifndef SUPPORT_FILEFORMAT_JPG
-    #define SUPPORT_FILEFORMAT_JPG      0       // Disabled by default
+    #define SUPPORT_FILEFORMAT_JPG      1       // Disabled by default
 #endif
 #ifndef SUPPORT_FILEFORMAT_GIF
     #define SUPPORT_FILEFORMAT_GIF      1
@@ -350,7 +350,7 @@
     #define SUPPORT_FILEFORMAT_QOA      1
 #endif
 #ifndef SUPPORT_FILEFORMAT_FLAC
-    #define SUPPORT_FILEFORMAT_FLAC     0       // Disabled by default
+    #define SUPPORT_FILEFORMAT_FLAC     1       // Disabled by default
 #endif
 #ifndef SUPPORT_FILEFORMAT_XM
     #define SUPPORT_FILEFORMAT_XM       1
